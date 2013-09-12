@@ -1,6 +1,8 @@
 menu:
   Home: /
   Archives: /archives
+  About Us: /about_us
+  Contact Us: /contact_us
 
 excerpt_link: Read More
 archive_yearly: false
@@ -13,7 +15,8 @@ widgets:
   - blogroll
 
 blogrolls:
-  - Heroic Yang's Blog: http://heroicyang.com/
+  - Shinetech China: http://www.shinetechchina.com/
+  - Shinetech China TianJin Dev Team: http://shinetechchina-tj.github.io
 
 fancybox: true
 
