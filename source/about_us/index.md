@@ -1,5 +1,8 @@
 title: Shinetech China Company Profile
 date: 2013-09-12 22:59:42
+categories: 
+updated: Shinetech TianJin Team
+comments: false
 ---
 
 ##About Us
