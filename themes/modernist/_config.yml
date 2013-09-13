@@ -17,10 +17,11 @@ widgets:
 blogrolls:
   - Shinetech China: http://www.shinetechchina.com/
   - Shinetech China TianJin Dev Team: http://shinetechchina-tj.github.io
+  - Shinetech China TianJin WeiBo: http://weibo.com/shinetechtj
 
 fancybox: true
 
-duoshuo_shortname: 
+duoshuo_shortname: shinetech-tj
 
 google_analytics:
 rss:
